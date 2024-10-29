@@ -10,7 +10,7 @@ _Em breve_
 
 ## Protótipo
 
-https://www.figma.com/design/xAHhtgaPpiWjb8yhrHaZcR/PodStation?t=KPjSX1qGK00ou8yp-1
+https://www.figma.com/design/fNEh5YKjVE8hARSV01KfRb/PodStation
 
 ## Checklist
 #### RA1 - Prototipar e projetar interfaces gráficas de usuário, considerando princípios de usabilidade e experiência do usuário.
